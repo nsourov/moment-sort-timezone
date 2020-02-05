@@ -1,6 +1,6 @@
 {
   "name": "moment-sort-timezone",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "author": "Naimur Rahman Sourov <naimur.rahman103@gmail.com>",
   "description": "Sort timezone by GMT",
