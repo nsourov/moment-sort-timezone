@@ -2,7 +2,25 @@
   "name": "sort-timezone",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "Naimur Rahman Sourov <naimur.rahman103@gmail.com>",
+  "description": "Sort timezone by GMT",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsourov/moment-sort-timezone"
+  },
+  "bugs": {
+    "url": "https://github.com/nsourov/moment-sort-timezone/issues"
+  },
+  "homepage": "https://github.com/nsourov/moment-sort-timezone#readme",
+  "keywords": [
+    "sort",
+    "timezone",
+    "gmt",
+    "moment-timezone",
+    "node",
+    "javascript"
+  ],
   "dependencies": {
     "moment-timezone": "^0.5.27"
   }
